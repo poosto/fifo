@@ -25,3 +25,4 @@ install_manifest.txt
 *.swp
 *.swo
 .DS_Store
+.cache/
