@@ -1,0 +1,5 @@
+/Users/prestonmeek/Desktop/PROJECTS/cppwork/stack/build/CMakeFiles/bin.dir
+/Users/prestonmeek/Desktop/PROJECTS/cppwork/stack/build/CMakeFiles/test_runner.dir
+/Users/prestonmeek/Desktop/PROJECTS/cppwork/stack/build/CMakeFiles/test.dir
+/Users/prestonmeek/Desktop/PROJECTS/cppwork/stack/build/CMakeFiles/edit_cache.dir
+/Users/prestonmeek/Desktop/PROJECTS/cppwork/stack/build/CMakeFiles/rebuild_cache.dir

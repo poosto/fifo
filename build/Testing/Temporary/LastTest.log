@@ -1,0 +1,22 @@
+Start testing: Mar 31 00:18 CEST
+----------------------------------------------------------
+1/1 Testing: fifo_tests
+1/1 Test: fifo_tests
+Command: "/Users/prestonmeek/Desktop/PROJECTS/cppwork/stack/build/test_runner"
+Directory: /Users/prestonmeek/Desktop/PROJECTS/cppwork/stack/build
+"fifo_tests" start time: Mar 31 00:18 CEST
+Output:
+----------------------------------------------------------
+Randomness seeded to: 4152010008
+===============================================================================
+All tests passed (7 assertions in 6 test cases)
+
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"fifo_tests" end time: Mar 31 00:18 CEST
+"fifo_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 31 00:18 CEST
