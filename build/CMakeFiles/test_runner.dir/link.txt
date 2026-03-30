@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names -fsanitize=thread CMakeFiles/test_runner.dir/tests/test_fifo.cpp.o CMakeFiles/test_runner.dir/vendor/catch2/catch_amalgamated.cpp.o -o test_runner
